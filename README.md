@@ -42,28 +42,8 @@ Beautiful interface where users can type questions and view answers instantly.
 
 Drop multiple PDFs into the data/ folder — the system will automatically process them.
 
-PDF Files
-    │
-    ▼
-Text Extraction
-    │
-    ▼
-Document Chunking
-    │
-    ▼
-Embeddings (Sentence Transformers)
-    │
-    ▼
-FAISS Vector Store
-    │
-    ▼
-Retrieve Context
-    │
-    ▼
-FLAN-T5 Answer Generation
-    │
-    ▼
-Final Answer
+<img width="243" height="462" alt="image" src="https://github.com/user-attachments/assets/d1924729-1859-4c0b-a2b3-bdcda997b420" />
+
 
 
 🚀 Getting Started
